@@ -1,0 +1,21 @@
+[CodePro v6.1 report, generated Fri May 20 11:20:26 PDT 2016]
+-------------------------------------------------------------------------------
+OVERALL COVERAGE SUMMARY:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+100% (2/2)	67%  (2/3)!	70%  (21/30)!	76%  (7.6/10)!	all classes
+
+OVERALL STATS SUMMARY:
+
+total packages:	2
+total classes:	2
+total methods:	3
+total executable files:	2
+total executable lines:	10
+
+COVERAGE BREAKDOWN BY PACKAGE:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+100% (1/1)	50%  (1/2)!	62%  (15/24)!	66%  (4.6/7)!	nn
+100% (1/1)	100% (1/1)	100% (6/6)	100% (3/3)	mm
+-------------------------------------------------------------------------------
