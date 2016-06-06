@@ -1,4 +1,4 @@
-[CodePro v6.1 report, generated Fri May 20 11:20:26 PDT 2016]
+[CodePro v6.1 report, generated Mon Jun 06 15:16:51 PDT 2016]
 -------------------------------------------------------------------------------
 OVERALL COVERAGE SUMMARY:
 
